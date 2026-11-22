@@ -9,7 +9,7 @@
   "dependencies": {
     "glamor": "^2.20.24",
     "glamorous": "^1.0.0",
-    "next": "^2.0.1",
+    "next": "^16.4.6",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
