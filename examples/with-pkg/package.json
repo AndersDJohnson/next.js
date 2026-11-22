@@ -13,7 +13,7 @@
     "dist": "pkg index.js --out-dir dist"
   },
   "dependencies": {
-    "next": "^3.0.1",
+    "next": "^16.4.6",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
